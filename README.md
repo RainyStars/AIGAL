@@ -1,0 +1,2 @@
+# AIGAL
+尝试做AI+GALGAME的玩具
